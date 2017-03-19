@@ -45,7 +45,7 @@ The Philosophical and Politics aspects were a good contract to the historical si
 
 Experience
 
-Paraskeva & Co Ltd (start_date to end_date)
+Paraskeva & Co Ltd (2009 to 2015)
 Book keeper
 
 Lella & Brothers Ltd (March 2015 to November 2016)
