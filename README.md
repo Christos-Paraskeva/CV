@@ -26,7 +26,7 @@ This skill held me in good stead during my time at Lella & Brothers, where I was
 
 During my time at Lella & Brothers, it was my responsibility to communicate directly with our buyers to deal with any payment or production issues.  This was a slow process, and more often than not, this would result in being passed around different departments, so it was important to remain patient and understanding whilst working to resolve the issue.
 
-Patience was also required during bank reconciliation, when the records did not match up, and it was not immediately obvious where the problem stemmed from.  This was a frequent occurrence since I began to code, and during my whole time at Makers Academy.  Patience is absolutely crucial in keeping the belief that you will overcome challenges.
+Patience was also required during bank reconciliation, when the records did not match up, and it was not immediately obvious where the problem stemmed from.  This has been a frequent occurrence since I began to code, and during my whole time at Makers Academy.  Patience is absolutely crucial in keeping the belief that you will overcome challenges.
 
 ## Education
 
