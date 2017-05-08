@@ -31,8 +31,8 @@ Patience was also required during bank reconciliation, when the records did not 
 ## Education
 
 ### Makers Academy (February 2017 to May 2017)
-* Curiosity and hungry passion for code
-* Independent learner and problem-solver
+* *Curiosity and hungry passion for code*
+* *Independent learner and problem-solver*
 * Pair programming, group projects and communication (daily stand-ups & retrospectives)
 * OOP, TDD
 * Ruby, Rails, Javascript, Node.js, Express.js, JQuery, SocketIO
