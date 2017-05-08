@@ -39,9 +39,9 @@ Markup : * Curiosity and hungry passion for code
          * Rspec, Capybara, Jasmine, Mocha, Chai, Sinon
 
 ### University of Brighton (Graduated 2009)
-Markup : * Humanities BA (Hons)
-         * Degree had a main focus on Modern World History, with elements of Philosophy and Politics.
-         * The Philosophical and Politics aspects were a good contract to the historical side of the degree, and allowed me to work with more ambiguous topics.
+* Humanities BA (Hons)
+* Degree had a main focus on Modern World History, with elements of Philosophy and Politics.
+* The Philosophical and Politics aspects were a good contract to the historical side of the degree, and allowed me to work with more ambiguous topics.
 
 ## Experience
 
@@ -56,9 +56,3 @@ Accounts Assistant
 Technology
 Sport
 Music
-
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
