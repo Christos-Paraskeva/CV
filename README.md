@@ -28,6 +28,12 @@ During my time at Lella & Brothers, it was my responsibility to communicate dire
 
 Patience was also required during bank reconciliation, when the records did not match up, and it was not immediately obvious where the problem stemmed from.  This has been a frequent occurrence since I began to code, and during my whole time at Makers Academy.  Patience is absolutely crucial in keeping the belief that you will overcome challenges.
 
+## Projects
+
+Name | Description | Technologies
+--- | --- | ---
+[Exhaust-ed](https://github.com/Christos-Paraskeva/exhaust-ed) | Avoid all the obstacles in this browser based web game.  Written by five of us in less than four days. | Javacript, Jasmine, HTML/CSS
+
 ## Education
 
 #### Makers Academy (February 2017 to May 2017)
