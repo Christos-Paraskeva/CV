@@ -32,7 +32,7 @@ Patience was also required during bank reconciliation, when the records did not 
 
 Name | Description | Technologies
 --- | --- | ---
-[Exhaust-ed](https://github.com/Christos-Paraskeva/exhaust-ed) | Avoid all the obstacles in this browser based web game.  Written by five of us in less than four days. | Javacript, Jasmine, HTML/CSS
+[Exhaust-ed](https://github.com/Christos-Paraskeva/exhaust-ed) | Avoid all the obstacles in this browser based racing game.  Written by five of us in less than four days. | Javacript, Jasmine, HTML/CSS
 
 ## Education
 
