@@ -32,6 +32,7 @@ Patience was also required during bank reconciliation, when the records did not 
 
 Name | Description | Technologies
 --- | --- | ---
+[Bloc](https://bloc-game.herokuapp.com/) | Makers Academy Final Project - An isometric multiplayer building block game.  Written by four of us in less than 2 weeks.  We took this opportunity to explore unfamiliar technologies not covered on the course. | Javascript, Node.js, SocketIO, Webpack, Mocha, Chai, Sinon, MongoDB, Heroku, HTML/CSS, Isomer, Passport.js
 [Exhaust-ed](https://github.com/Christos-Paraskeva/exhaust-ed) | Avoid all the obstacles in this browser based racing game.  Written by five of us in less than four days. | Javacript, Jasmine, HTML/CSS
 
 ## Education
