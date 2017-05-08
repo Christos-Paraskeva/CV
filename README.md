@@ -53,6 +53,6 @@ Patience was also required during bank reconciliation, when the records did not 
 
 ## Hobbies & Interests
 
-Technology
-Sport
+Technology <br />
+Sport <br />
 Music
