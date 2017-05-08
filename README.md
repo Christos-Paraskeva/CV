@@ -1,4 +1,4 @@
-Christos Paraskeva
+## Christos Paraskeva
 
 
 The past few months have been both exciting and challenging.  Taking the plunge on something I was curious about, and learning a completely new skill, is something that has been extremely fulfilling.  Coming from a book keeping / admin background, I am using the skills I learnt from that, as well as my passion for technology, to further develop my skills and learn new ones at Makers Academy.  This is just the beginning of my journey, and after extensive research, the decision to join Makers Academy was an easy one, given their focus on methodologies such as Pair-Programming, TDD, Agile and Self-Learning.  I believe this will set me on the correct path to continue my learning in an efficient way afterwards.  I’m hoping to find a company where I can develop these skills further in a supportive environment.
