@@ -63,11 +63,11 @@ Name | Description | Technologies
 
 ## Experience
 
-#### Paraskeva & Co Ltd (2009 to 2015)
-*Book keeper*
-
 #### Lella & Brothers Ltd (March 2015 to November 2016)
 *Accounts Assistant*
+
+#### Paraskeva & Co Ltd (2009 to 2015)
+*Book keeper*
 
 ## Hobbies & Interests
 
