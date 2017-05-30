@@ -12,9 +12,9 @@ I believe this will set me on the correct path to continue my learning in a prof
 
 At my previous role at the fashion supplier Lella & Brothers, I was part of a small team where we were responsible for delegating the tasks between ourselves.  It was important that we communicated with each other and worked towards completing these tasks as a team. 
 
-* * Nurturing relationships with our buyers such as Tesco, New Look and Primark*
-* * Constant interaction with our QC (Quality Control) department with production issues*
-* * Constant interaction with our Accounts Department with payment queries*
+* Nurturing relationships with our buyers such as Tesco, New Look and Primark*
+* Constant interaction with our QC (Quality Control) department with production issues*
+* Constant interaction with our Accounts Department with payment queries*
 
 The structure of the course at Makers Academy put teamwork at the forefront, and I had the opportunity to use the skills I had acquired in my previous jobs to navigate these new and exciting real world projects, either through pair-programming, or through our group work.
 
@@ -22,19 +22,19 @@ The structure of the course at Makers Academy put teamwork at the forefront, and
 
 A keen eye for detail was essential for both my previous job roles and the subsequent challenges they brought up. 
 
-* * Spotting any anomalies when dealing with income/expenditure and the subsequent Bank Reconciliation*
-* * Generating payment invoices for Tesco*
-* * Keeping records of all the orders*
-* * Cross-referencing invoices were matching up with the final quantity / price of the garments*
-* * Keeping records on every purchase invoice
-* * Calculating the exact cost for manufacturing any particular order
+* Spotting any anomalies when dealing with income/expenditure and the subsequent Bank Reconciliation*
+* Generating payment invoices for Tesco*
+* Keeping records of all the orders*
+* Cross-referencing invoices were matching up with the final quantity / price of the garments*
+* Keeping records on every purchase invoice
+* Calculating the exact cost for manufacturing any particular order
 
 ## Patience
 
 Dealing with the challenges of my previous job roles in a patient and methodical way allowed me to effectively and efficiently accomplish my goals.
-* * Communicating directly with our buyers to deal with any payment or production issues*
-* * Remaining patient and respectful whilst working to resolve the issue where, more often than not, this would result in being passed around to different departments*
-* * When the records did not match up during Bank Reconciliation, and it was not immediately obvious where the problem stemmed from. 
+* Communicating directly with our buyers to deal with any payment or production issues*
+* Remaining patient and respectful whilst working to resolve the issue where, more often than not, this would result in being passed around to different departments*
+* When the records did not match up during Bank Reconciliation, and it was not immediately obvious where the problem stemmed from. 
 
 This is a skill I have been using daily since I began to code, and during my whole time at Makers Academy.  Patience is absolutely crucial in keeping the belief that you will overcome challenges and solve any particular problem.
 
