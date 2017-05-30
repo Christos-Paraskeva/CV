@@ -3,7 +3,7 @@
 
 The past few months have been both exciting and challenging. Taking the plunge into a field I was curious about, and learning a completely new concept, is something that has been extremely fulfilling and enjoyable.
 
-After extensive research, the decision to join Makers Academy was an easy one, given their focus on methodologies such as Pair-Programming, TDD, Agile and Self-Learning. Coming from a book keeping / admin background, I used my expertise gained from that area, as well as my passion for technology, to further develop my skills and learn new ones.
+After extensive research, the decision to join Makers Academy was an easy one, given their focus on methodologies such as Pair-Programming, TDD, Agile and Self-Learning. Coming from a book keeping / admin background, I used my expertise gained from that, as well as my passion for technology, to further develop my skills and learn new ones.
 
 I believe this will set me on the correct path to continue my learning in a proficient and resourceful way, and I hope to find a company where I can develop these skills further in a supportive environment.
 
@@ -12,21 +12,31 @@ I believe this will set me on the correct path to continue my learning in a prof
 
 At my previous role at the fashion supplier Lella & Brothers, I was part of a small team where we were responsible for delegating the tasks between ourselves.  It was important that we communicated with each other and worked towards completing these tasks as a team. 
 
-The role involved nurturing relationships with our buyers such as Tesco, New Look and Primark, and also involved constant interaction with our QC (Quality Control) department with production issues, and our Accounts Department with payment queries.
+* * Nurturing relationships with our buyers such as Tesco, New Look and Primark*
+* * Constant interaction with our QC (Quality Control) department with production issues*
+* * Constant interaction with our Accounts Department with payment queries*
 
-The structure of the course at Makers Academy put teamwork at the forefront, and I had the opportunity to use my skills to navigate these new and exciting real world projects, either through pair-programming, or through our group work.
+The structure of the course at Makers Academy put teamwork at the forefront, and I had the opportunity to use the skills I had acquired in my previous jobs to navigate these new and exciting real world projects, either through pair-programming, or through our group work.
 
 ## Attention To Detail
 
-During my time as a book keeper at Paraskeva & Co, I developed a keen eye for detail.  It was crucial to spot any anomalies when dealing with income/expenditure and the subsequent bank reconciliation. 
+A keen eye for detail was essential for both my previous job roles and the subsequent challenges they brought up. 
 
-This skill held me in good stead during my time at Lella & Brothers, where I was responsible for generating the payment invoices for Tesco, and keeping records of all the orders. My role involved cross-referencing whether the invoice was matching up with the final quantity and price of the garments, and also keeping records on every purchase invoice to calculate the exact cost for manufacturing any particular order.  
+* * Spotting any anomalies when dealing with income/expenditure and the subsequent Bank Reconciliation*
+* * Generating payment invoices for Tesco*
+* * Keeping records of all the orders*
+* * Cross-referencing invoices were matching up with the final quantity / price of the garments*
+* * Keeping records on every purchase invoice
+* * Calculating the exact cost for manufacturing any particular order
 
 ## Patience
 
-During my time at Lella & Brothers, it was my responsibility to communicate directly with our buyers to deal with any payment or production issues.  This was a slow process, and more often than not, this would result in being passed around different departments, so it was important to remain patient and understanding whilst working to resolve the issue.
+Dealing with the challenges of my previous job roles in a patient and methodical way allowed me to effectively and efficiently accomplish my goals.
+* * Communicating directly with our buyers to deal with any payment or production issues*
+* * Remaining patient and respectful whilst working to resolve the issue where, more often than not, this would result in being passed around to different departments*
+* * When the records did not match up during Bank Reconciliation, and it was not immediately obvious where the problem stemmed from. 
 
-Patience was also required during bank reconciliation, when the records did not match up, and it was not immediately obvious where the problem stemmed from.  This has been a frequent occurrence since I began to code, and during my whole time at Makers Academy.  Patience is absolutely crucial in keeping the belief that you will overcome challenges.
+This is a skill I have been using daily since I began to code, and during my whole time at Makers Academy.  Patience is absolutely crucial in keeping the belief that you will overcome challenges and solve any particular problem.
 
 ## Projects
 
